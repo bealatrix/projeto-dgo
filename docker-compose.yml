@@ -31,7 +31,7 @@ services:
         --max-connections=1001,
       ]
     environment:
-      MYSQL_DATABASE: projeto-dgo
+      MYSQL_DATABASE: dgo_giganet
       MYSQL_ROOT_PASSWORD: root
     ports:
       - "3306:3306"

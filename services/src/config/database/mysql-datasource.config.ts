@@ -7,7 +7,7 @@ export const AppDataSource = new DataSource({
   port: 3306,
   username: "root",
   password: "root",
-  database: "projeto-dgo",
+  database: "dgo_giganet",
   synchronize: false,
   logging: false,
   entities: ["src/api/components/**/*.entity{.ts,.js}"],
