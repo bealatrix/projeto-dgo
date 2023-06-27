@@ -12,7 +12,7 @@
 Esse projeto por enquanto esta sendo desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
+- TypeScript
 - Git e Github
 
 ## 💻 Projeto
